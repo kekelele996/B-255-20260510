@@ -1,0 +1,6 @@
+
+{
+  "name": "Gemini 驱动的三维虚拟工厂",
+  "description": "基于 React Three Fiber 的高保真工业模拟系统，支持实时天气效果、昼夜交替、自动视角巡航以及由动画驱动的机器人系统。",
+  "requestFramePermissions": []
+}
